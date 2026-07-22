@@ -1,5 +1,7 @@
 # ZTF DR2 SN Ia host-environment correction-validity release v1.5.0
+
 DOI: 10.5281/zenodo.21495900
+
 This archive is the clean reproducibility and audit package for the analysis
 **Testing the Correction Validity and Environmental Dependence of the ZTF DR2
 Type Ia Supernova Host-Mass Residual**.
